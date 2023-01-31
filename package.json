@@ -1,0 +1,26 @@
+{
+  "name": "prisma-mongodb-ts",
+  "version": "1.0.0",
+  "description": "Using the Prisma MongoDB driver with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiletki/prisma-mongodb-ts.git"
+  },
+  "author": "wiletki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wiletki/prisma-mongodb-ts/issues"
+  },
+  "homepage": "https://github.com/wiletki/prisma-mongodb-ts#readme",
+  "dependencies": {
+    "@prisma/client": "^4.9.0",
+    "bson": "^4.7.2"
+  },
+  "devDependencies": {
+    "prisma": "^4.9.0"
+  }
+}
