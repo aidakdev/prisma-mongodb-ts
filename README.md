@@ -1,7 +1,7 @@
 Prisma + MongoDB + TypeScript
 ===============
 
-An experiment using the Prisma MongoDB driver using TypeScript.
+An experiment using Prisma and MongoDB.
 
 # Flow
 
